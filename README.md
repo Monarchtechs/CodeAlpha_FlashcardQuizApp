@@ -27,13 +27,9 @@ Each flashcard contains a **question** on the front and an **answer** on the bac
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Development Process
 
-- **Language:** Kotlin  
-- **UI:** XML + Material Design Components  
-- **Storage:** SharedPreferences  
-- **IDE:** Android Studio  
-- **Version Control:** Git & GitHub  
+This app was built from the ground up by a human developer. During the development process, an AI assistant was used for debugging and to help resolve complex build issues. The core logic, UI design, and feature implementation were all handled by the developer.
 
 ---
 
